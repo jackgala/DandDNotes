@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open DandDNotes.ejs",
+            "file": "c:\\Users\\Jack Gala\\Desktop\\Portfolio\\views\\DandDNotes.ejs"
+        }
+    ]
+}//run terminal from Portfolio as 'npm start', then go to 'http://localhost:3000'

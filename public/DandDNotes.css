@@ -1,0 +1,32 @@
+input, textarea, label, h2, select{
+    display: block;
+    width: 100%;
+}
+
+label, h2{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 16px;
+    width: 100%;
+}
+
+.text{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.getNotes{
+    width: 300px;
+}
+
+
+
